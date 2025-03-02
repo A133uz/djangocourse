@@ -1,0 +1,2 @@
+# djangocourse
+ for educational purposes
